@@ -35,10 +35,6 @@
 - **AI integration** - Implement AI to play the game automatically.
 - **Graphical interface** - Develop a GUI version using Qt or SFML.
 
-## * License *
-
-This project is open-source and available under the MIT License.
-
 ---
 
 Enjoy playing 2048 in the console! 🎮
