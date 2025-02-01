@@ -37,4 +37,4 @@
 
 ---
 
-Enjoy playing 2048 in the console! 🎮
+**Enjoy playing 2048 in the console! 🎮**
