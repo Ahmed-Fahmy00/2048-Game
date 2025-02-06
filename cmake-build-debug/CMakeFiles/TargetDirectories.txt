@@ -1,0 +1,3 @@
+D:/Ahmed fahmy/Programming/C++/2048 Game/cmake-build-debug/CMakeFiles/2048_Game.dir
+D:/Ahmed fahmy/Programming/C++/2048 Game/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Ahmed fahmy/Programming/C++/2048 Game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
